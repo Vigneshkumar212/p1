@@ -9,6 +9,7 @@ function preload(){
   four = loadImage('four.png');
   five= loadImage('five.png');
   six= loadImage('six.png');
+  optbarimg = loadImage ('options.png');
   background_img = loadImage('background_img.png');
   
 }

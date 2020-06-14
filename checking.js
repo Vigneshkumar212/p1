@@ -9,7 +9,7 @@ function check(){
     if (time === "passtime"&& option === "six"){
         time = "goaltime";
     }
-    if (opo_option !== option){
+    if (option !== opo_option){
         console.log("noo...:(");
         passesmade = 0;
         chosen_number = -1;
