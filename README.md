@@ -1,2 +1,2 @@
-# p1
-p1
+# super-octo-meme
+International-RPS-Game-By-VK-Total-Game
